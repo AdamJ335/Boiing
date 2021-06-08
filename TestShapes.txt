@@ -1,0 +1,24 @@
+rect 20 20 -5 1 true 50 80 255 255 0 0 true
+rect 120 120 5 -1 false 80 50 255 0 255 0 true
+rect 20 120 -5 1 true 50 80 155 255 0 0 false
+rect 220 20 5 -1 false 80 50 25 0 255 0 false
+square 320 20 1 -2 true 50 0 0 75 0 false
+square 120 20 1 -2 false 50 60 0 80 0 false
+square 220 120 1 -2 true 50 70 0 0 0 true
+square 220 20 1 -2 false 50 0 0 42 0 true
+oval 120 20 3 3 false 50 80 90 0 8 0 false
+oval 20 120 3 3 true 50 80 80 80 80 0 false
+oval 220 20 3 3 false 50 80 80 80 80 0 true
+oval 320 20 3 3 true 50 80 80 80 80 0 true
+square 20 20 -1 2 true 50 0 0 0 2000 false
+square 120 20 -1 2 false 50 0 0 0 2000 false
+square 220 120 -1 2 true 50 0 0 0 2000 true
+square 320 120 -1 2 false 50 0 0 0 2000 true
+circle 120 120 5 0 true 70 0 255 0 2000 true
+circle 220 20 0 5 false 80 0 0 255 2000 false
+circle 120 20 5 0 true 70 0 255 0 2000 false
+circle 320 120 0 5 false 80 0 0 255 2000 false
+triangle 20, 20, -5, 1, true, 50, 80, 50, 100, 100, 0, 0, true
+triangle 320, 20, 2, 2, false, 80, 50, 255, 255, 0, 0, 2000, false
+triangle 120, 20, -5, 1, true, 50, 80, 50, 100, 100, 0, 0, false
+triangle 220, 120, 2, 2, false, 80, 50, 255, 255, 0, 0, 2000, true
